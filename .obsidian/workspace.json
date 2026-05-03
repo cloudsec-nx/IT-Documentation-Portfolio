@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "6f994e3d47a9ee4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a53f9da441c30791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcff2d891b7f77c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nieuw tabblad"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f9a1090e21384aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eddf50e6f5e1ec5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed46876924d4801c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Verkenner"
+            }
+          },
+          {
+            "id": "4e4af0d2924e70f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"aliases\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Zoeken"
+            }
+          },
+          {
+            "id": "a74fd61a791fdb88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bladwijzers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "846e4fc452a531f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "74277554909dd205",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d3dc2773720c701",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Terugverwijzing"
+            }
+          },
+          {
+            "id": "99737db24727ddb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Uitgaande verwijzingen"
+            }
+          },
+          {
+            "id": "eb50fbfa28c48eee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Labels"
+            }
+          },
+          {
+            "id": "b6d93295d63f19be",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle eigenschappen"
+            }
+          },
+          {
+            "id": "297c557a2e3971a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Overzicht"
+            }
+          },
+          {
+            "id": "a8d360134c3d6fe0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "bases:Nieuwe basis maken": false,
+      "githobs:Manage a github issue": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ed46876924d4801c",
+  "lastOpenFiles": []
+}
