@@ -20,16 +20,19 @@
 ## 🗺️ Certificeringspad
 
 ```
-Mei/Juni 2026        Juli 2026          Q3 2026           Q4 2026
-─────────────────────────────────────────────────────────────────
-AZ-900           →   SC-900         →   AZ-104            AZ-305
-Azure                Security            Azure             Azure
-Fundamentals         Fundamentals        Administrator     Architect
-                         ↓
-                     SC-200 (alt)
-                     Security
-                     Operations
+Q3 2026              Q3/Q4 2026         2027
+──────────────────────────────────────────────────
+AZ-104           →   SC-200         →   AZ-305
+Azure                Security            Azure
+Administrator        Operations         Architect
+
+Optioneel vooraf (te overwegen): AZ-900 · SC-900 — Fundamentals
 ```
+
+> **Update juni 2026:** op advies focus ik nu direct op de Associate-certificeringen
+> **AZ-104** en **SC-200**. De Fundamentals-examens (AZ-900 / SC-900) zijn niet
+> verplicht en houd ik aan als optioneel opstapje — de studienotities hieronder
+> blijven bruikbaar als naslag.
 
 ---
 
@@ -144,10 +147,10 @@ Fundamentals         Fundamentals        Administrator     Architect
 
 | Certificaat | Pad | Doeldatum | Status |
 |---|---|---|---|
-| AZ-900 | Cloud & Security | Mei 2026 | 🔄 In voorbereiding |
-| SC-900 | Security & Cloud | Juni 2026 | ⏳ Gepland |
-| AZ-104 | Cloud | Juli/Augustus 2026 | ⏳ Gepland |
-| SC-200 | Security | Q3 2026 | ⏳ Gepland |
+| AZ-104 | Cloud | Q3 2026 | ⏳ Gepland |
+| SC-200 | Security | Q3/Q4 2026 | ⏳ Gepland |
+| AZ-900 | Cloud & Security | — | 🤔 Te overwegen |
+| SC-900 | Security & Cloud | — | 🤔 Te overwegen |
 | AZ-305 | Cloud | 2027 | ⏳ Toekomst |
 
 ---
@@ -168,4 +171,4 @@ Fundamentals         Fundamentals        Administrator     Architect
 
 ---
 
-*Laatst bijgewerkt: mei 2026*
+*Laatst bijgewerkt: juni 2026*

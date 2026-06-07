@@ -81,10 +81,10 @@ Opzetten van een Kubernetes cluster (1 master, 2 worker nodes) met onderzoek naa
 
 | Certificering | Status |
 |---|---|
-| AZ-900 Azure Fundamentals | 🔄 In voorbereiding |
-| SC-900 Security Fundamentals | ⏳ Gepland |
 | AZ-104 Azure Administrator | ⏳ Gepland |
-| SC-200 Security Operations | ⏳ Gepland |
+| SC-200 Security Operations Analyst | ⏳ Gepland |
+| AZ-900 Azure Fundamentals | 🤔 Te overwegen |
+| SC-900 Security, Compliance & Identity Fundamentals | 🤔 Te overwegen |
 
 ---
 
@@ -95,4 +95,4 @@ Opzetten van een Kubernetes cluster (1 master, 2 worker nodes) met onderzoek naa
 
 ---
 
-*Laatst bijgewerkt: mei 2026*
+*Laatst bijgewerkt: juni 2026*
